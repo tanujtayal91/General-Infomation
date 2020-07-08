@@ -1,0 +1,33 @@
+
+body {
+  background-image: linear-gradient(to right,khaki,lawngreen,fuchsia,crimson,blueviolet);
+}
+  hr {color: linen;
+    border: 5px;
+  height:2px;
+  width: 10%;
+  border-style: dotted none none;
+  border-width: 5px;
+}
+h2 {
+  background-color: peru;
+  padding: 2px;
+  margin:20px none;
+  margin-right: 93%;
+}
+.cool {
+  background-color: peru;
+  padding: 2px;
+  margin:20px none;
+  margin-right: 88%;
+}
+#heading{
+  background-image: linear-gradient(to right,linen,hotpink,gainsboro,lightgreen,lightsalmon,lightblue,ivory);
+  text-align: center;
+  font-style: italic;
+  color: firebrick;
+  border: solid 2px;;
+  border-color: black;
+  margin: 1% 35% 2%;
+
+}
